@@ -24,9 +24,7 @@ function Projects() {
               title="AI Interview Coach"
               description="AI Interview Coach is an intelligent,web-based platform designed to help users prepare effectively for job interviews.
               It offers real-time mock interview sessions using webcam and microphone, 
-              alongside AI-powered question-and-answer interactions that adapt to the user's performance.The platform offers specialized quizzes tailored to specific domains, providing immediate feedback to users. It also features a resume-driven profile tracker to monitor personal growth."
-              ghLink="https://github.com/ayusssh01/AI-Interview-Coach"
-              demoLink="https://ai-interview-coach-jha.vercel.app/"
+              alongside AI-powered question-and-answer interactions that adapt to the user's performance."
             />
           </Col>
 
@@ -35,7 +33,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Bookloop"
-              description="Bookloop is a community-driven platform designed to promote book sharing, exchanging, and discovering new reads among avid readers. It allows users to list books they own, browse books others are offering, and initiate seamless swaps or borrow requests. With personalized recommendations, user reviews, and a location-aware book loop network, Bookloop makes reading more social, sustainable, and affordable."
+              description="Bookloop is a community-driven platform designed to promote book sharing, exchanging, and discovering new reads among avid readers. It allows users to list books they own, browse books others are offering, and initiate seamless swaps or borrow requests."
               ghLink="https://github.com/ayusssh01/Bookloop"
               demoLink="https://youtu.be/flU55jYHGmY?si=NSS1V5mzw-1lWOd7"
              
